@@ -7,6 +7,7 @@ A simple backend library API built with Javascript
 - Simple CRUD
 - Connected to a database (Postgres)
 - Include migrations and seeders for local development
+- Multi genres book
 
 ### Libraries
 
